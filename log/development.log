@@ -1,0 +1,7 @@
+Started GET "/" for 127.0.0.1 at 2025-02-14 12:35:31 +0300
+Processing by HomeController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 5)
+Completed 200 OK in 3ms (Views: 2.5ms | Allocations: 2310)
+
+
